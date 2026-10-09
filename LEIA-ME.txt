@@ -1,0 +1,24 @@
+CONTROLE ESTOQUE — PROJETO COMPLETO
+
+Arquivos:
+- index.html: estrutura do site e telas do sistema
+- style.css: layout responsivo e visual
+- script.js: cadastro/login de demonstração, produtos, movimentações, alertas e exportação CSV
+
+COMO ABRIR:
+1. Extraia o arquivo ZIP.
+2. Abra a pasta.
+3. Dê dois cliques em index.html (Chrome, Edge ou Firefox).
+4. Clique em "Começar agora" e crie uma conta de demonstração.
+
+ANTES DE PUBLICAR:
+1. Abra script.js.
+2. No objeto CONFIG, substitua whatsapp pelo número real, com DDI + DDD + número, somente dígitos.
+3. Substitua email pelo endereço de e-mail real.
+4. No index.html, substitua também o texto SEUEMAIL@EXEMPLO.COM do link de contato pelo e-mail real.
+5. Faça upload dos três arquivos para o repositório GitHub. Para GitHub Pages, em Settings > Pages selecione a branch principal e a pasta /(root).
+
+IMPORTANTE:
+Esta é uma demonstração front-end. Os dados são guardados no localStorage do navegador e a senha de demonstração não é protegida por servidor. Não use senhas reais nem dados confidenciais. Para uso comercial real, será necessário backend, banco de dados, autenticação segura e cópias de segurança.
+
+O número de WhatsApp e o e-mail não estavam visíveis nas imagens do trabalho que recebi, então deixei campos fáceis de substituir. Envie os dados corretos para eu personalizar esses links.
